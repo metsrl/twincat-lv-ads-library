@@ -19,7 +19,12 @@ Once installed the TwinCAT ADS Runtime on the Client, a static route must be set
 5. Enter the Server access credentials: User Name and Password. Press 'Okay' button.
 6. The panel 'TwinCAT Static Routes' will shows up. An 'x' in the 'Connected' field indicate a succesful connection Client <> Server.
 
+![Alt text](Pictures/1_AddRouteDialog.PNG?raw=true "Step 4")
+![Alt text](Pictures/2_AddRemoteRoute.PNG?raw=true "Step 5")
+![Alt text](Pictures/3_TwinCATStaticRoutesDialog.PNG?raw=true "Step 6")
+
 # how to use the library
 Usage example is shown below.
+![Alt text](Pictures/4_LabVIEWExample.PNG?raw=true "LabVIEW Example")
 
 This project is maintained by MET. For support write to support@met.it
