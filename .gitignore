@@ -1,0 +1,12 @@
+# LabVIEW
+*.aliases
+*.lvlps
+.DS_Store
+Thumbs.db
+~*.docx
+~*.xlsx
+*.log*
+artifacts/
+builds/
+*.csv
+*.*tdms
