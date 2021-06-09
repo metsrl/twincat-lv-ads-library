@@ -1,0 +1,6 @@
+site_name: TwinCAT ADS library written in LabVIEW
+docs_dir: docs
+nav:
+    - Home: index.md
+site_author: MET srl
+copyright: MET srl 2021 
