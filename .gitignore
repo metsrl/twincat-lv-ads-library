@@ -10,3 +10,4 @@ artifacts/
 builds/
 *.csv
 *.*tdms
+site

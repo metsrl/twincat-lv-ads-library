@@ -1,5 +1,6 @@
 site_name: TwinCAT ADS library written in LabVIEW
 docs_dir: docs
+repo_url: https://github.com/metsrl/twincat-lv-ads-library.git
 nav:
     - Home: index.md
 site_author: MET srl
